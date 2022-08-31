@@ -49,7 +49,7 @@ const Home: NextPage = () => {
       <section className={styles.footersection}>
         <div>
           <h2 className={styles.footertitle}>HAVE A BREATHTAKING IDEA?</h2>
-          <h3 className={styles.footert2}>pitch@slowave.vc</h3>
+          <a href='mailto:pitch@slowave.vc' className={styles.footert2}>pitch@slowave.vc</a>
         </div>
         <div>
           <h3 className={styles.media}>Follow us on                   
