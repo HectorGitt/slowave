@@ -25,7 +25,7 @@
  /*display flex and aligned center*/
  display: flex;
  align-items: center;
- font-family: 'Bebas Neue', cursive;  
+ font-family: 'Bebas Neue', sans-serif;  
  font-size: 2rem;
  color: #FFF;
 }
@@ -59,7 +59,7 @@
 }
 
 .title1 {
-  font-family: 'Bebas Neue', cursive;  
+  font-family: 'Bebas Neue', sans-serif;  
   font-style: normal;
   font-weight: 400;
   font-size: 6rem ;
@@ -104,7 +104,7 @@
 
 .footertitle {
   background: linear-gradient(180deg, #1143C5 0%, #119AC5 100%);
-  font-family: 'Bebas Neue', cursive;  
+  font-family: 'Bebas Neue';  
   font-style: normal;
   font-weight: 400;
   -webkit-background-clip: text;
@@ -145,7 +145,7 @@
 .line {
   height: 1px;
   background: linear-gradient(180deg, #1143C5 0%, #119AC5 100%);
-  font-family: 'Bebas Neue', cursive;  
+  font-family: 'Bebas Neue', sans-serif;  
   font-style: normal;
   -webkit-text-fill-color: transparent;
   margin: 3rem 0;
@@ -162,7 +162,7 @@
   height: 15vh;
   display: flex;
   align-items: center;
-  font-family: 'Bebas Neue', cursive;  
+  font-family: 'Bebas Neue', sans-serif;  
   font-size: 2rem;
   color: #7E7C7C;
 }
