@@ -67,7 +67,7 @@ const Home: NextPage = () => {
 
       <div className={styles.footer}>
         <div className={styles.footerimg}>
-          <Image src={logoFade} alt="logo" className={styles.logo3} /> 
+          <Image priority={true} src={logoFade} alt="logo" className={styles.logo3} /> 
           <span>SLOWAVE</span>
         </div> 
         <div>
